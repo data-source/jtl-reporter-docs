@@ -29,6 +29,7 @@ module.exports = {
         'guides/large-file',
         'guides/aws-ecs-installation',
         'guides/aws-ec2-installation',
+		'guides/aws-ec2-ssl-configuration',
         'guides/Azure-Installation'
       ],
     },
